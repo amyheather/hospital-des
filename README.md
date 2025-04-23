@@ -1,6 +1,6 @@
-# Hospital DES
+# Hospital DES (Python)
 
-Discrete-event simulation of a hospital emergency department.
+Python discrete-event simulation of a hospital emergency department.
 
 Author: Amy Heather
 
